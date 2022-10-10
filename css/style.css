@@ -1,0 +1,9 @@
+.row {
+    background-color: black;
+}
+
+[class*=col] {
+    background-color: rgb(85, 85, 255);
+    border: 1px solid white;
+    height: 40px;
+}
